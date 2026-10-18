@@ -1,0 +1,1 @@
+"""briefbot: a small research agent that searches the web and writes a cited brief."""
